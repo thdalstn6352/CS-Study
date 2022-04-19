@@ -129,7 +129,7 @@
     - [호이스팅이 뭔가요? 🔥🔥🔥🔥](https://github.com/thdalstn6352/CS-Study/blob/main/Javascript/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85.md)
     - [var 키워드의 문제점은 무엇이 있나요? 🔥🔥](https://github.com/thdalstn6352/CS-Study/blob/main/Javascript/%EB%B3%80%EC%88%98%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md#var%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90)
     - [let 키워드는 var 키워드와 어떤 점이 다른가요? 🔥🔥🔥](https://github.com/thdalstn6352/CS-Study/blob/main/Javascript/%EB%B3%80%EC%88%98%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md#let%EC%9D%98-%ED%8A%B9%EC%A7%95)
-    - TDZ 🔥🔥🔥
+    - [TDZ 🔥🔥🔥](https://github.com/thdalstn6352/CS-Study/blob/main/Javascript/TDZ.md)
     - [const 키워드는 어떤 특징이 있나요? 🔥🔥](https://github.com/thdalstn6352/CS-Study/blob/main/Javascript/%EB%B3%80%EC%88%98%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md#const%EC%9D%98-%ED%8A%B9%EC%A7%95)
     - [식별자 네이밍 규칙은 어떤 것들이 있나요?](https://github.com/thdalstn6352/CS-Study/blob/main/Javascript/%EB%B3%80%EC%88%98%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md#%EC%8B%9D%EB%B3%84%EC%9E%90-%EB%AA%85%EB%AA%85-%EA%B7%9C%EC%B9%99)
     - [네이밍 컨벤션은 어떤 것들이 있나요?](https://velog.io/@cada/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%84%A4%EC%9D%B4%EB%B0%8D-%EC%BB%A8%EB%B2%A4%EC%85%98-%ED%8E%B8)
